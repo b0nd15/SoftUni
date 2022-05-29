@@ -1,0 +1,13 @@
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\09.Padawan_Equipment\bin\Debug\netcoreapp3.1\09.Padawan_Equipment.exe
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\09.Padawan_Equipment\bin\Debug\netcoreapp3.1\09.Padawan_Equipment.deps.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\09.Padawan_Equipment\bin\Debug\netcoreapp3.1\09.Padawan_Equipment.runtimeconfig.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\09.Padawan_Equipment\bin\Debug\netcoreapp3.1\09.Padawan_Equipment.runtimeconfig.dev.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\09.Padawan_Equipment\bin\Debug\netcoreapp3.1\09.Padawan_Equipment.dll
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\09.Padawan_Equipment\bin\Debug\netcoreapp3.1\09.Padawan_Equipment.pdb
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\09.Padawan_Equipment\obj\Debug\netcoreapp3.1\09.Padawan_Equipment.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\09.Padawan_Equipment\obj\Debug\netcoreapp3.1\09.Padawan_Equipment.AssemblyInfoInputs.cache
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\09.Padawan_Equipment\obj\Debug\netcoreapp3.1\09.Padawan_Equipment.AssemblyInfo.cs
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\09.Padawan_Equipment\obj\Debug\netcoreapp3.1\09.Padawan_Equipment.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\09.Padawan_Equipment\obj\Debug\netcoreapp3.1\09.Padawan_Equipment.dll
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\09.Padawan_Equipment\obj\Debug\netcoreapp3.1\09.Padawan_Equipment.pdb
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\09.Padawan_Equipment\obj\Debug\netcoreapp3.1\09.Padawan_Equipment.genruntimeconfig.cache

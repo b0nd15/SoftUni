@@ -1,0 +1,13 @@
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\04.Print_and_Sum\bin\Debug\netcoreapp3.1\04.Print_and_Sum.exe
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\04.Print_and_Sum\bin\Debug\netcoreapp3.1\04.Print_and_Sum.deps.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\04.Print_and_Sum\bin\Debug\netcoreapp3.1\04.Print_and_Sum.runtimeconfig.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\04.Print_and_Sum\bin\Debug\netcoreapp3.1\04.Print_and_Sum.runtimeconfig.dev.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\04.Print_and_Sum\bin\Debug\netcoreapp3.1\04.Print_and_Sum.dll
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\04.Print_and_Sum\bin\Debug\netcoreapp3.1\04.Print_and_Sum.pdb
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\04.Print_and_Sum\obj\Debug\netcoreapp3.1\04.Print_and_Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\04.Print_and_Sum\obj\Debug\netcoreapp3.1\04.Print_and_Sum.AssemblyInfoInputs.cache
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\04.Print_and_Sum\obj\Debug\netcoreapp3.1\04.Print_and_Sum.AssemblyInfo.cs
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\04.Print_and_Sum\obj\Debug\netcoreapp3.1\04.Print_and_Sum.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\04.Print_and_Sum\obj\Debug\netcoreapp3.1\04.Print_and_Sum.dll
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\04.Print_and_Sum\obj\Debug\netcoreapp3.1\04.Print_and_Sum.pdb
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\04.Print_and_Sum\obj\Debug\netcoreapp3.1\04.Print_and_Sum.genruntimeconfig.cache

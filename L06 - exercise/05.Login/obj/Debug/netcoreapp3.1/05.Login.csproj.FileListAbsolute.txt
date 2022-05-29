@@ -1,0 +1,14 @@
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.exe
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.deps.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.runtimeconfig.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.runtimeconfig.dev.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.dll
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.pdb
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.csproj.AssemblyReference.cache
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.AssemblyInfoInputs.cache
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.AssemblyInfo.cs
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.dll
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.pdb
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.genruntimeconfig.cache

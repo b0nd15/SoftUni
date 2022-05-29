@@ -1,0 +1,14 @@
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\03.Vacantion\bin\Debug\netcoreapp3.1\03.Vacantion.exe
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\03.Vacantion\bin\Debug\netcoreapp3.1\03.Vacantion.deps.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\03.Vacantion\bin\Debug\netcoreapp3.1\03.Vacantion.runtimeconfig.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\03.Vacantion\bin\Debug\netcoreapp3.1\03.Vacantion.runtimeconfig.dev.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\03.Vacantion\bin\Debug\netcoreapp3.1\03.Vacantion.dll
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\03.Vacantion\bin\Debug\netcoreapp3.1\03.Vacantion.pdb
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\03.Vacantion\obj\Debug\netcoreapp3.1\03.Vacantion.csproj.AssemblyReference.cache
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\03.Vacantion\obj\Debug\netcoreapp3.1\03.Vacantion.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\03.Vacantion\obj\Debug\netcoreapp3.1\03.Vacantion.AssemblyInfoInputs.cache
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\03.Vacantion\obj\Debug\netcoreapp3.1\03.Vacantion.AssemblyInfo.cs
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\03.Vacantion\obj\Debug\netcoreapp3.1\03.Vacantion.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\03.Vacantion\obj\Debug\netcoreapp3.1\03.Vacantion.dll
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\03.Vacantion\obj\Debug\netcoreapp3.1\03.Vacantion.pdb
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\03.Vacantion\obj\Debug\netcoreapp3.1\03.Vacantion.genruntimeconfig.cache

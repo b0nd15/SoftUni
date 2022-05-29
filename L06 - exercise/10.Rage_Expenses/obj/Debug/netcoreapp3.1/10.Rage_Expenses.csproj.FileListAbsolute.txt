@@ -1,0 +1,14 @@
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\10.Rage_Expenses\bin\Debug\netcoreapp3.1\10.Rage_Expenses.exe
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\10.Rage_Expenses\bin\Debug\netcoreapp3.1\10.Rage_Expenses.deps.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\10.Rage_Expenses\bin\Debug\netcoreapp3.1\10.Rage_Expenses.runtimeconfig.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\10.Rage_Expenses\bin\Debug\netcoreapp3.1\10.Rage_Expenses.runtimeconfig.dev.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\10.Rage_Expenses\bin\Debug\netcoreapp3.1\10.Rage_Expenses.dll
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\10.Rage_Expenses\bin\Debug\netcoreapp3.1\10.Rage_Expenses.pdb
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\10.Rage_Expenses\obj\Debug\netcoreapp3.1\10.Rage_Expenses.csproj.AssemblyReference.cache
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\10.Rage_Expenses\obj\Debug\netcoreapp3.1\10.Rage_Expenses.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\10.Rage_Expenses\obj\Debug\netcoreapp3.1\10.Rage_Expenses.AssemblyInfoInputs.cache
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\10.Rage_Expenses\obj\Debug\netcoreapp3.1\10.Rage_Expenses.AssemblyInfo.cs
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\10.Rage_Expenses\obj\Debug\netcoreapp3.1\10.Rage_Expenses.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\10.Rage_Expenses\obj\Debug\netcoreapp3.1\10.Rage_Expenses.dll
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\10.Rage_Expenses\obj\Debug\netcoreapp3.1\10.Rage_Expenses.pdb
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\10.Rage_Expenses\obj\Debug\netcoreapp3.1\10.Rage_Expenses.genruntimeconfig.cache

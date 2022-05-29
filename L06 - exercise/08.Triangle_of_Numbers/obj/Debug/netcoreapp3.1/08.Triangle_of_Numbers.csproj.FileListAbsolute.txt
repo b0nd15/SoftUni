@@ -1,0 +1,13 @@
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\08.Triangle_of_Numbers\bin\Debug\netcoreapp3.1\08.Triangle_of_Numbers.exe
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\08.Triangle_of_Numbers\bin\Debug\netcoreapp3.1\08.Triangle_of_Numbers.deps.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\08.Triangle_of_Numbers\bin\Debug\netcoreapp3.1\08.Triangle_of_Numbers.runtimeconfig.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\08.Triangle_of_Numbers\bin\Debug\netcoreapp3.1\08.Triangle_of_Numbers.runtimeconfig.dev.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\08.Triangle_of_Numbers\bin\Debug\netcoreapp3.1\08.Triangle_of_Numbers.dll
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\08.Triangle_of_Numbers\bin\Debug\netcoreapp3.1\08.Triangle_of_Numbers.pdb
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\08.Triangle_of_Numbers\obj\Debug\netcoreapp3.1\08.Triangle_of_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\08.Triangle_of_Numbers\obj\Debug\netcoreapp3.1\08.Triangle_of_Numbers.AssemblyInfoInputs.cache
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\08.Triangle_of_Numbers\obj\Debug\netcoreapp3.1\08.Triangle_of_Numbers.AssemblyInfo.cs
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\08.Triangle_of_Numbers\obj\Debug\netcoreapp3.1\08.Triangle_of_Numbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\08.Triangle_of_Numbers\obj\Debug\netcoreapp3.1\08.Triangle_of_Numbers.dll
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\08.Triangle_of_Numbers\obj\Debug\netcoreapp3.1\08.Triangle_of_Numbers.pdb
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\08.Triangle_of_Numbers\obj\Debug\netcoreapp3.1\08.Triangle_of_Numbers.genruntimeconfig.cache

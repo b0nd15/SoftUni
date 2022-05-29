@@ -1,0 +1,13 @@
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\06.Strong_number\bin\Debug\netcoreapp3.1\06.Strong_number.exe
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\06.Strong_number\bin\Debug\netcoreapp3.1\06.Strong_number.deps.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\06.Strong_number\bin\Debug\netcoreapp3.1\06.Strong_number.runtimeconfig.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\06.Strong_number\bin\Debug\netcoreapp3.1\06.Strong_number.runtimeconfig.dev.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\06.Strong_number\bin\Debug\netcoreapp3.1\06.Strong_number.dll
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\06.Strong_number\bin\Debug\netcoreapp3.1\06.Strong_number.pdb
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\06.Strong_number\obj\Debug\netcoreapp3.1\06.Strong_number.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\06.Strong_number\obj\Debug\netcoreapp3.1\06.Strong_number.AssemblyInfoInputs.cache
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\06.Strong_number\obj\Debug\netcoreapp3.1\06.Strong_number.AssemblyInfo.cs
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\06.Strong_number\obj\Debug\netcoreapp3.1\06.Strong_number.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\06.Strong_number\obj\Debug\netcoreapp3.1\06.Strong_number.dll
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\06.Strong_number\obj\Debug\netcoreapp3.1\06.Strong_number.pdb
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\06.Strong_number\obj\Debug\netcoreapp3.1\06.Strong_number.genruntimeconfig.cache

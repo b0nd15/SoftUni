@@ -1,0 +1,14 @@
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\11.Orders\bin\Debug\netcoreapp3.1\11.Orders.exe
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\11.Orders\bin\Debug\netcoreapp3.1\11.Orders.deps.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\11.Orders\bin\Debug\netcoreapp3.1\11.Orders.runtimeconfig.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\11.Orders\bin\Debug\netcoreapp3.1\11.Orders.runtimeconfig.dev.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\11.Orders\bin\Debug\netcoreapp3.1\11.Orders.dll
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\11.Orders\bin\Debug\netcoreapp3.1\11.Orders.pdb
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\11.Orders\obj\Debug\netcoreapp3.1\11.Orders.csproj.AssemblyReference.cache
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\11.Orders\obj\Debug\netcoreapp3.1\11.Orders.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\11.Orders\obj\Debug\netcoreapp3.1\11.Orders.AssemblyInfoInputs.cache
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\11.Orders\obj\Debug\netcoreapp3.1\11.Orders.AssemblyInfo.cs
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\11.Orders\obj\Debug\netcoreapp3.1\11.Orders.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\11.Orders\obj\Debug\netcoreapp3.1\11.Orders.dll
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\11.Orders\obj\Debug\netcoreapp3.1\11.Orders.pdb
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\11.Orders\obj\Debug\netcoreapp3.1\11.Orders.genruntimeconfig.cache

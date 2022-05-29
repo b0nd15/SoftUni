@@ -1,0 +1,14 @@
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\07.Vending_Machine\bin\Debug\netcoreapp3.1\07.Vending_Machine.exe
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\07.Vending_Machine\bin\Debug\netcoreapp3.1\07.Vending_Machine.deps.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\07.Vending_Machine\bin\Debug\netcoreapp3.1\07.Vending_Machine.runtimeconfig.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\07.Vending_Machine\bin\Debug\netcoreapp3.1\07.Vending_Machine.runtimeconfig.dev.json
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\07.Vending_Machine\bin\Debug\netcoreapp3.1\07.Vending_Machine.dll
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\07.Vending_Machine\bin\Debug\netcoreapp3.1\07.Vending_Machine.pdb
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\07.Vending_Machine\obj\Debug\netcoreapp3.1\07.Vending_Machine.csproj.AssemblyReference.cache
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\07.Vending_Machine\obj\Debug\netcoreapp3.1\07.Vending_Machine.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\07.Vending_Machine\obj\Debug\netcoreapp3.1\07.Vending_Machine.AssemblyInfoInputs.cache
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\07.Vending_Machine\obj\Debug\netcoreapp3.1\07.Vending_Machine.AssemblyInfo.cs
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\07.Vending_Machine\obj\Debug\netcoreapp3.1\07.Vending_Machine.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\07.Vending_Machine\obj\Debug\netcoreapp3.1\07.Vending_Machine.dll
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\07.Vending_Machine\obj\Debug\netcoreapp3.1\07.Vending_Machine.pdb
+E:\SoftUni\C# Fundamentals\Lecture 6 Exercise - Basic Syntax, Conditional Statements and Loops\L06 - exercise\07.Vending_Machine\obj\Debug\netcoreapp3.1\07.Vending_Machine.genruntimeconfig.cache
